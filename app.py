@@ -13,7 +13,7 @@ class API(Resource):
         return f"got id {img_id}"
 
 
-api.add_resource(API, '/api', endpoint='api')
+api.add_resource(API, '/', endpoint='')
 
 app.run(host="0.0.0.0", port=5000)
 
