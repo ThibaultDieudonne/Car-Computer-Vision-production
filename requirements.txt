@@ -1,2 +1,6 @@
-flask
-flask_restful
+Flask==2.0.2
+imageio==2.5.0
+Pillow==8.4.0
+numpy==1.19.5
+tensorflow==2.6.0
+segmentation-models==1.0.1

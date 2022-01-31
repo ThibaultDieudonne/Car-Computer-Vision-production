@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/data
+/models
+__pycache__
+all_requirements.txt
+demo.ipynb
